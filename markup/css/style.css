@@ -1,0 +1,136 @@
+body {
+    background-color: #EEEFF1;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    width: 1100px;
+    margin: 0 auto;
+} 
+
+nav {
+    margin: 2em 0;
+}
+
+
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    padding-right: 1em;
+    padding-block: 1em;
+}
+
+nav ul li a {
+    color: #34547A;
+}
+
+main head {
+    margin-bottom: 140px;
+}
+
+main .description {
+    width: 540px;
+    margin: 60px 0;
+}
+
+
+h1 {
+    display: inline-block;
+}
+
+.btn-blue {
+    text-align: center;
+    width: 216px;
+    height: 52px;
+    color: #EEEFF1;
+    background: #34547A;
+}
+
+.btn-blue a {
+    color: #fff;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 1em;
+}
+
+section {
+    padding: 112px 0;
+}
+
+.head {
+    padding-top: 0;
+}
+
+.about {
+    background: #f6f8fb; 
+    text-align: center;
+}
+
+.about p {
+    text-align: center;
+    width: 500px;
+    margin: auto;
+}
+
+.projects { 
+    color: #fff;
+    background: #34547A;
+}
+
+.icon-files-empty {
+    display: inline-block;
+    font-size: 50px;
+    padding: 10px;
+}
+
+.item {
+    display: inline-block;
+    font-size: 25px;
+}
+
+.item p {
+    margin: 0;
+} 
+
+.list {
+    width: max-content;
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+.list > li {
+    display: inline-block;
+}
+
+.item {
+    text-align: left;
+    margin-right: 20px;
+} 
+
+.about h2 {
+    margin: 40px 0;
+}
+
+.video {
+    margin: 80px;
+    }
+
+.video__test {
+    width: 40%;
+}
+
+.quote {
+    padding: 53px 0;
+    color: #fff;
+    background: #34547A;
+} 
