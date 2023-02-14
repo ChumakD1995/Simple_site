@@ -28,7 +28,7 @@ nav ul li {
     padding-block: 1em;
 }
 
-nav ul li a {
+a {
     color: #34547A;
 }
 
@@ -116,11 +116,12 @@ section {
 } 
 
 .about h2 {
+    padding: 0 20px 0 150px;
     margin: 40px 0;
 }
 
 .video {
-    margin: 80px;
+    margin: 97px 6px 150px 126px;
     }
 
 .video__test {
